@@ -1,0 +1,124 @@
+/*
+--------------------------------------------------------
+
+[ MOUNTAIN , Colorsheet ]
+
+  Template Name :  MOUNTAIN - Corporate & Business Startup Template
+
+  Version       :  1.0
+
+  Author        :  Pixel_Factory
+
+  Author URI    :  http://themeforest.net/user/Pixel_Factory
+
+  Author Email  : h.nafees.anwar@gmail.com
+
+--------------------------------------------------------
+*/
+
+.btn-colored {
+	background: #009788 !important;
+}
+
+.btn-colored-o {
+	border: 2px solid #009788;
+	color: #009788 !important;
+}
+
+.btn-colored-o:hover {
+	background-color: #009788 !important;
+}
+
+.page-head .navigation ul li a:hover,
+.page-head .navigation ul li.active a {
+	background: #009788;
+}
+
+.list-about-us ul li span {
+	color: #009788;
+}
+
+.item-features:hover .icon-features i {
+	color: #009788;
+}
+
+.text-phone-no h2 {
+	color: #009788;
+}
+
+.icon-services i {
+	color: #009788;
+}
+
+.item-about-sub.first {
+	background: rgba(0, 151, 136, 1);
+}
+
+.item-about-sub.second {
+	background: rgba(0, 151, 136, 0.95);
+}
+
+.item-about-sub.third {
+	background: rgba(0, 151, 136, 0.9);
+}
+
+.item-facts i {
+	color: #009788;
+}
+
+.btn-portfolio span {
+	color: #009788;
+}
+
+.heading-pricing h2 {
+	color: #009788;
+}
+
+.detail-team ul li a {
+	border-color: #009788;
+	color: #009788;
+}
+
+.detail-team ul li a:hover {
+	background: #009788;
+}
+
+.social-media ul li a:hover {
+	background: #009788;
+}
+
+.heading-subscribe h3 {
+	color: #009788;
+}
+
+.email-subscribe input {
+	border-bottom-color: #009788;
+}
+
+.item-news-date {
+	background: #009788;
+}
+
+.item-news-heading a:hover h5 {
+	color: #009788;
+}
+
+.links-footer li a i {
+	color: #009788;
+}
+
+.links-footer li a:hover {
+	color: #009788;
+}
+
+.social-media ul li a {
+	background: #009788;
+}
+
+.list-news ul li i {
+	color: #009788;
+}
+
+.pace .pace-progress {
+	background: #009788;
+}

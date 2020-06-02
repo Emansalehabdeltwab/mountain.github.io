@@ -1,0 +1,148 @@
+/*
+--------------------------------------------------------
+
+[ MOUNTAIN , Responsive  Stylesheet ]
+
+  Template Name :  MOUNTAIN - Corporate & Business Startup Template
+
+  Version       :  1.0
+
+  Author        :  Pixel_Factory
+
+  Author URI    :  http://themeforest.net/user/Pixel_Factory
+
+  Author Email  : h.nafees.anwar@gmail.com
+
+--------------------------------------------------------
+*/
+
+@media only screen and (max-width: 1200px) {
+	.home-2 .image-home img {
+		width: 90%;
+		display: block;
+		margin: 0 auto;
+		height: auto;
+	}
+	.home-2 .text-home h1 {
+		font-size: 36px;
+	}
+	.pad {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.item-services {
+		padding: 30px;
+	}
+	.social-media ul li a {
+		width: 50px;
+		height: 50px;
+		line-height: 50px;
+	}
+	.text-features {
+		padding: 0;
+	}
+	.image-features {
+		padding: 0;
+	}
+	.heading-news h1 {
+		font-size: 48px;
+	}
+}
+
+@media only screen and (max-width:992px) {
+	.page-head .navigation ul li a {
+		margin-left: 1px;
+		margin-right: 1px;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	.item-about-sub {
+		padding: 50px;
+	}
+	.item-about-sub h4 {
+		margin-top: 0;
+	}
+	.text-features {
+		margin-bottom: 50px;
+	}
+	.image-features {
+		margin-bottom: 50px;
+	}
+	.item-facts {
+		margin-bottom: 30px;
+	}
+	.heading-news h1 {
+		font-size: 36px;
+	}
+	.comments-news {
+		padding-right: 70px;
+	}
+	.content-slide {
+		width: 700px;
+	}
+	.content-slide h1 {
+		font-size: 30px;
+	}
+	.content-slide h1 span {
+		font-size: 36px;
+	}
+}
+
+@media only screen and (max-width:768px) {
+	.heading-section h2 {
+		font-size: 30px;
+	}
+	.text-phone-no h2 {
+		font-size: 24px;
+	}
+	.item-services {
+		margin-bottom: 15px;
+	}
+	.item-facts {
+		margin-bottom: 15px;
+	}
+	.form-subscribe {
+		width: 100%;
+	}
+	.email-subscribe {
+		width: calc( 100% - 140px);
+	}
+	.heading-news h1 {
+		font-size: 30px;
+	}
+	.comments-news {
+		padding-right: 0;
+	}
+	.content-slide {
+		width: 90%;
+	}
+	.content-slide h1 {
+		font-size: 18px;
+	}
+	.content-slide h1 span {
+		font-size: 24px;
+	}
+	.content-slide p {
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width:480px) {
+	.heading-news h1 {
+		font-size: 24px;
+	}
+	.content-slide h1 {
+		font-size: 16px;
+	}
+	.content-slide h1 span {
+		font-size: 20px;
+	}
+	.content-slide p {
+		font-size: 12px;
+	}
+	.content-slide ul li {
+		display: block;
+		margin: auto;
+		margin-bottom: 5px;
+	}
+}
